@@ -18,7 +18,13 @@ OUTPUT_DIR=./out python main.py
 
 ## Picture
 
-TODO: add the picture.
+### Kitten hugging a sleepy duckling
+
+A fluffy ginger-and-cream kitten with big blue eyes, a mint knitted scarf and a daisy crown hugs a sleepy yellow duckling wrapped in a pink knitted blanket.
+
+The picture was generated once with FLUX.1-schnell and checked into the repository. The program only copies it, with no network and no randomness, so both runs write the same bytes. The file holds JPEG data stored under the `entry.png` name.
+
+![Kitten hugging a sleepy duckling](assets/entry.png)
 
 ## License
 
