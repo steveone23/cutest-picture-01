@@ -18,13 +18,13 @@ OUTPUT_DIR=./out python main.py
 
 ## Picture
 
-### Kitten hugging a sleepy duckling
+### Cream kitten hugging a sleepy duckling
 
-A fluffy ginger-and-cream kitten with big blue eyes, a mint knitted scarf and a daisy crown hugs a sleepy yellow duckling wrapped in a pink knitted blanket.
+A fluffy cream kitten with blue eyes, a daisy crown and a mint knitted scarf hugs a sleeping yellow duckling on a pink knitted blanket by a sunny window.
 
-The picture was generated once with FLUX.1-schnell and checked into the repository. The program only copies it, with no network and no randomness, so both runs write the same bytes. The file holds JPEG data stored under the `entry.png` name.
+The picture was generated once with Gemini 3 Pro Image and checked into the repository. It replaced an earlier FLUX.1-schnell version whose paws looked off. The program only copies it, with no network and no randomness, so both runs write the same bytes. The file holds JPEG data stored under the `entry.png` name.
 
-![Kitten hugging a sleepy duckling](assets/entry.png)
+![Cream kitten hugging a sleepy duckling](assets/entry.png)
 
 ## License
 
